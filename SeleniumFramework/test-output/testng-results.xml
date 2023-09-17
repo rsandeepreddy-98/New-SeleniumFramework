@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-17T21:49:37 IST" name="Suite" finished-at="2023-09-17T21:49:55 IST" duration-ms="17779">
+  <suite started-at="2023-09-17T22:55:26 IST" name="Suite" finished-at="2023-09-17T22:55:39 IST" duration-ms="12823">
     <groups>
     </groups>
-    <test started-at="2023-09-17T21:49:37 IST" name="Test" finished-at="2023-09-17T21:49:55 IST" duration-ms="17779">
+    <test started-at="2023-09-17T22:55:26 IST" name="Test" finished-at="2023-09-17T22:55:39 IST" duration-ms="12823">
       <class name="com.Demo.Testcases.TC01_First">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.Demo.Testcases.TC01_First@34f22f9d]" started-at="2023-09-17T21:49:37 IST" name="setUp" finished-at="2023-09-17T21:49:52 IST" duration-ms="15117" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.Demo.Testcases.TC01_First@1b7c473a]" started-at="2023-09-17T22:55:27 IST" name="setUp" finished-at="2023-09-17T22:55:37 IST" duration-ms="10823" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginCheck()[pri:0, instance:com.Demo.Testcases.TC01_First@34f22f9d]" started-at="2023-09-17T21:49:52 IST" name="loginCheck" finished-at="2023-09-17T21:49:54 IST" duration-ms="1805" status="PASS">
+        <test-method signature="loginCheck()[pri:0, instance:com.Demo.Testcases.TC01_First@1b7c473a]" started-at="2023-09-17T22:55:37 IST" name="loginCheck" finished-at="2023-09-17T22:55:39 IST" duration-ms="1471" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Demo.Testcases.TC01_First@34f22f9d]" started-at="2023-09-17T21:49:54 IST" name="tearDown" finished-at="2023-09-17T21:49:55 IST" duration-ms="709" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Demo.Testcases.TC01_First@1b7c473a]" started-at="2023-09-17T22:55:39 IST" name="tearDown" finished-at="2023-09-17T22:55:39 IST" duration-ms="411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -19,7 +19,6 @@ public class TC01_First extends BaseClass {
 		loginPage.setPassword(readConfig.getPassword());
 		loginPage.clickSubmitButton();
 		loginPage.veriyTextPresent();
-
 	}
 
 }
